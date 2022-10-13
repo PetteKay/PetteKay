@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PetteKay
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning BSc. Computer Science 
-- 💞️ I’m looking to collaborate for my projects 
+- 💞️ I’m looking to collaborate with everyone 
 - 📫 How to reach me peterteaminc@gmail.com
 
 <!---
