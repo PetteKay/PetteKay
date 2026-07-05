@@ -1,32 +1,27 @@
 # Hi, I'm Peter
 
-I study Computer Science at the University for Development Studies in Tamale, Ghana. Most of what I build sits at the intersection of computer vision and machine learning.
+Computer Science student at the University for Development Studies, Tamale, Ghana. I build things in computer vision, machine learning, and systems.
 
-For my thesis I trained a CNN to spot malaria parasites in blood smear images. I ran it against VGG and ResNet before settling on a custom architecture that hit 92% accuracy, then wrapped it in a simple interface so lab technicians without a data science background could use it directly.
+Interested in computer vision, robotics, multi agent systems, NLP, and cybersecurity.
 
-I'm currently building a forex trading system where five LLM agents debate market direction before MetaTrader 5 places anything. It also uses HMM regime detection and a CUSUM filter to catch shifts in the market before acting on them.
+## Projects
 
-## What I'm into
+- Malaria Diagnosis CNN, thesis project, 92% accuracy on clinical microscopy images
+- [Multi-Agent Forex Trading Bot](https://github.com/PetteKay/ai-forex-trading-bot), LLM agents trading through MetaTrader 5
+- KusOS, a hardened Linux distro with security, pentesting, and gaming build profiles
+- MelSoft Shield, a self-evolving AI cyberdefense engine with automated pentesting and SAST/SOAR
+- [VinexData](https://vinexdata.com), a fintech platform for selling data bundles
+- MelSoft Ride, a ride-hailing and delivery platform for Ghana
+- MelSoft School Manager, a school management system for Ghanaian schools
+- Twi SDA Hymnal, a bilingual Twi/English hymnal app
+- OURA, a real-time global activity platform, built but not yet shipped
 
-Computer vision, autonomous systems and robotics, multi agent systems, NLP, and cybersecurity. I also taught computing to 50+ students for a couple of years, so I don't mind explaining things twice.
+## Tools
 
-## Some things I've built
-
-- Malaria Diagnosis CNN (add repo link) A clinical microscopy image classifier running at 92% accuracy.
-- Multi-Agent Forex Trading Bot (add repo link) LLM reasoning agents paired with live MetaTrader 5 execution.
-
-## Tools I reach for
-
-Python, TensorFlow, Keras, OpenCV, scikit-learn, SQL, Git
+Python, C++, TensorFlow, OpenCV, scikit-learn, SQL, Git, Flutter
 
 ## Say hi
 
-Email:kusipeterjnr@proton.me
-GitHub: @PetteKay
+Kusipeterjnr@proton.me
 
-Open to collaborating on anything in ML, computer vision, or multi agent systems.
-
-<!---
-PetteKay/PetteKay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open to collaborating on ML, computer vision, or systems projects.
