@@ -22,6 +22,6 @@ Python, C++, TensorFlow, OpenCV, scikit-learn, SQL, Git, Flutter
 
 ## Say hi
 
-Kusipeterjnr@proton.me
+pkusi375@gmail.com
 
 Open to collaborating on ML, computer vision, or systems projects.
